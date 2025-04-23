@@ -1,12 +1,12 @@
 # 📊 AtliqO_Telecom_Dashboard – 5G Plan Performance Analysis
 
-This project presents an interactive Excel dashboard developed for AtliQo, one of India’s leading telecom providers, to analyze key business metrics before and after the launch of their 5G plans in May 2022. The dashboard enables the management team to track changes in user behavior, active subscriber count, and revenue trends to support strategic decision-making.
+This project presents an interactive Excel dashboard developed for AtliqO, one of India’s leading telecom providers, to analyze key business metrics before and after the launch of their 5G plans in May 2022. The dashboard enables the management team to track changes in user behavior, active subscriber count, and revenue trends to support strategic decision-making.
 
 ---
 
 ## 🧠 Business Objective
 
-In May 2022, AtliQo launched its 5G plans in line with the national rollout across India. However, a noticeable decline in active users and revenue growth raised concerns within the management team. 
+In May 2022, AtliqO launched its 5G plans in line with the national rollout across India. However, a noticeable decline in active users and revenue growth raised concerns within the management team. 
 
 To address this, the Business Director tasked the analytics team with performing a comparative analysis of core KPIs in the **pre-5G period vs post-5G period**.
 
@@ -33,7 +33,7 @@ excel-dashboard-project/
 │   ├── schema.sql
 │   ├── metadata.txt
 │
-├── liqO_telecom_dashboard.xlsx        # Final Excel dashboard
+├── AtliqO_telecom_dashboard.xlsx        # Final Excel dashboard
 │
 ├── README.md
 ├── LICENSE
