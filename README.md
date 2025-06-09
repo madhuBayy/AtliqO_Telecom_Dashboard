@@ -27,7 +27,7 @@ This project was executed by **Peter Pandey**, a Junior Data Analyst, who compil
 ## 📁 Folder Structure
 
 ```
-excel-dashboard-project/
+AtliqO_Telecom_Dashboard/
 │
 ├── data/                   
 │   ├── schema.sql
@@ -66,4 +66,4 @@ excel-dashboard-project/
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/atliqo-telecom-dashboard.git
+   git clone https://github.com/madhuBayy/atliqo-telecom-dashboard.git
