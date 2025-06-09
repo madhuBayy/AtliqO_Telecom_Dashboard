@@ -29,7 +29,7 @@ This project was executed by **Peter Pandey**, a Junior Data Analyst, who compil
 ```
 excel-dashboard-project/
 │
-├── data/                     # Raw and processed data
+├── data/                   
 │   ├── schema.sql
 │   ├── metadata.txt
 │
